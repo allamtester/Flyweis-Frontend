@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://mamun-reza-freeshops-backend.vercel.app/"
+    }
+  ]
+}
