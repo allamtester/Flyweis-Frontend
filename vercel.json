@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://mamun-reza-freeshops-backend.vercel.app/api"
+      "destination": "https://mamun-reza-freeshops-backend.vercel.app/api/$1"
     }
   ]
 }
